@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>enlaces</title>
+    <link>https://es.wikipedia.org/wiki/Angus_Young</link>
+    <description />
+    <language>en-us</language>
+    <managingEditor>emiberfar@gmail.com</managingEditor>
+    <webMaster>emiberfar@gmail.com</webMaster>
+    <copyright>emilio bernal</copyright>
+    <item>
+      <title>angus</title>
+      <pubDate>Mon, 5 Jun 2017 11:57:20 +0200</pubDate>
+      <link>https://es.wikipedia.org/wiki/Angus_Young</link>
+      <author>emiberfar@gmail.com</author>
+      <category>rock</category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Pepe</title>
+      <pubDate>Mon, 5 Jun 2017 11:54:22 +0200</pubDate>
+      <link>https://es.wikipedia.org/wiki/Pepe_(futbolista)</link>
+      <guid isPermaLink="true">https://es.wikipedia.org/wiki/Pepe_(futbolista)</guid>
+      <author>emiberfar@gmail.com</author>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>blog</title>
+      <pubDate>Mon, 5 Jun 2017 11:52:50 +0200</pubDate>
+      <link>https://www.blogger.com/about/?r=1-null_user</link>
+      <author>emiberfar@gmail.com</author>
+      <category>blog</category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>xml</title>
+      <pubDate>Mon, 5 Jun 2017 11:50:40 +0200</pubDate>
+      <link>http://www.w3c.es/Traducciones/es/TR/2001/REC-xmlschema-0-20010502/#regexAppendix</link>
+      <author>emiberfar@gmail.com</author>
+      <category>xml</category>
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Juan</title>
+      <pubDate>Mon, 5 Jun 2017 11:49:06 +0200</pubDate>
+      <link>https://es.wikipedia.org/wiki/Juan_(nombre)</link>
+      <author>emiberfar@gmail.com</author>
+      <category>wiki</category>
+      <description><![CDATA[]]></description>
+    </item>
+  </channel>
+</rss>
